@@ -1,0 +1,135 @@
+@media(max-width:600px ){
+
+
+#home {
+    padding: 30px 0 0 0;
+    height: 120vh;
+    display: flex;
+    flex-direction: column;
+    background-color: blue;
+}
+
+#home img {
+    width: 26%;
+    width: 42%;
+    border-radius: 50%;
+    margin: -19px 180px 0 0;
+}
+.intro{
+    text-align: center;
+    padding: 0 0px 0 0;
+    margin: 0 142px 0 0;
+}
+.intro h4{
+    padding: 197px 0 0 0;
+}
+.intro h3{
+    padding: 0 0 0 0;
+}
+.intro p{
+width: 90%;
+}
+.button #b2 {
+    border-radius: 4px;
+    height: 22px;
+    width: 65px;
+    margin: 13px 0 0 145px;
+}
+.page1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#skill {
+    height: 100vh;
+}
+
+.left p {
+    width: 86%;
+    margin: 12px 0 0 55px;
+}
+
+.left h1 {
+    text-align: center;
+    margin: 0 0 0 39px;
+    padding: 9px 0 0 0;
+    
+}
+.right h1 {
+    text-align: center;
+    margin: 16px 0px 0 0;
+}
+
+
+
+.right p {
+    text-align: center;
+    margin: 12px 18px 10px 0;
+}
+
+.box {
+    width: 100%;
+}
+#project{
+    height: 100vh;
+}
+
+#project {
+    display: flex;
+    flex-direction: column;
+    padding: 23px 0 0 0;
+}
+#project h1 {
+    color: white;
+}
+#project span h1 {
+    color: aqua;
+}
+#project span {
+    padding: 3% 0 0 40%;
+    text-align: center;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+#project img {
+    width: 100px;
+}
+.pro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+}
+
+#contact {
+    height: 70vh;
+}
+
+.page3 {
+    text-align: center;
+    padding-top: 20px;
+    line-height: 3;
+}
+.page3 p {
+    color: white;
+    font-weight: bolder;
+}
+
+.page3 h1 {
+    color: rgb(79, 238, 185);
+    word-spacing: 3px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.logo img {
+    width: 30px;
+}
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 18px 87px 0 51px;
+}
+
+}
