@@ -16,7 +16,7 @@
     width: 26%;
     width: 42%;
     border-radius: 50%;
-    margin: -19px 180px 0 0;
+    margin: -19px 110px 0 0;
 }
 .intro{
     text-align: center;
@@ -24,19 +24,19 @@
     margin: 0 142px 0 0;
 }
 .intro h4{
-    padding: 265px 0 0 120px;
+    padding: 183px 0 0 120px;
 }
 .intro h3{
     padding: 0 0 0 0;
 }
 .intro p{
-width: 90%;
+width: 1p0%;
 }
 .button #b2 {
     border-radius: 4px;
     height: 22px;
     width: 65px;
-    margin: 13px 0 0 145px;
+    margin: 13px 0 0 77px;
 }
 .page1{
     display: flex;
